@@ -4,6 +4,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'Nokora', sans-serif;
 }
 
 /* Main Content */
@@ -18,8 +19,12 @@ main {
     background-color: #CCE4E7;
 }
 
-p {
-    color: #16133B;
+.style-heading-font, h1, h2, h3, h4, h5, h6 {
+    font-family: "Offside", sans-serif;
+}
+
+.style-text-color {
+    color: #16303B;
 }
 
 div > h3 {
