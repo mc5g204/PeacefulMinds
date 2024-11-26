@@ -15,14 +15,22 @@ main {
     flex: 1 0 auto;
 }
 
+/* Thickness of hr Line Break */
+hr {
+    height: 3px;
+}
+
+/* Change background color to darker shade */
 .bg-main-dark {
     background-color: #CCE4E7;
 }
 
+/* Heading Font */
 .style-heading-font, h1, h2, h3, h4, h5, h6 {
     font-family: "Offside", sans-serif;
 }
 
+/* Text Color */
 .style-text-color {
     color: #16303B;
 }
@@ -106,6 +114,7 @@ div > p {
     z-index: 1;
 }
 
+/* Formatting for Card Groups */
 .card-group-format {
     padding: 20px 20px;
     display: flex;
