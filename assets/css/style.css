@@ -1,19 +1,47 @@
-body {
+/* Main Content */
+main {
     background-color: #EDF0ED;
 }
 
+/* Header & Footer Styling */
 .bg-HeaderFooter {
     background-color: #35A2C0;
 }
 
+/* Footer Layout */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+/* Footer Icons */
+#social-networks i {
+    font-size: 160%;
+    color: #224859;
+}
+
+/* Footer Copyright Layout */
+#copyright-info {
+    font-size: 70%;
+    text-align: left;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* Unselected Navigation Links */
 .nav-link {
     color: #224859;
 }
 
+/* Selected Navigation Links */
 .nav-link active {
     color: #16133B;
 }
 
+/* Company Title */
 .logoTitle {
     color: #224859;
 }
