@@ -1,6 +1,9 @@
 /* Main Content */
 main {
     background-color: #EDF0ED;
+    /* Make main element take up surplus space to push footer down*/
+    flex: 1 0 auto;
+    margin-top: 30px;
 }
 
 /* Header & Footer Styling */
@@ -37,8 +40,9 @@ main {
 }
 
 /* Selected Navigation Links */
-.nav-link active {
+.active {
     color: #16133B;
+    text-decoration-line: overline underline;
 }
 
 /* Company Title */
