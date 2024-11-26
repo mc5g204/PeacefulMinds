@@ -112,7 +112,7 @@ div > p {
 }
 
 /* Formatting for Card Groups */
-.card-group-format {
+.item-group-format {
     padding: 20px 20px;
     display: flex;
     justify-content: space-evenly;
