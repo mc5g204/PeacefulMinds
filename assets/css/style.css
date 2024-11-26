@@ -1,6 +1,13 @@
+/* General Styles */
+body {
+    background-color: #EDF0ED;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
 /* Main Content */
 main {
-    background-color: #EDF0ED;
     /* Make main element take up surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 30px;
@@ -18,6 +25,8 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    flex-grow: 1;
+    height: 100%;
 }
 
 /* Footer Icons */
