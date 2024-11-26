@@ -74,7 +74,6 @@ div > p {
 /* Selected Navigation Links */
 .active {
     color: #16133B;
-    text-decoration-line: overline underline;
 }
 
 /* Company Title */
@@ -105,4 +104,12 @@ div > p {
 .jumbotron .container {
     position: relative;
     z-index: 1;
+}
+
+.card-group-format {
+    padding: 20px 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-grow: 1;
+    height: 100%;
 }
