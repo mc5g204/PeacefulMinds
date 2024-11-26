@@ -1,0 +1,23 @@
+body {
+    background-color: #EDF0ED;
+}
+
+.bg-HeaderFooter {
+    background-color: #35A2C0;
+}
+
+.nav-link {
+    color: #224859;
+}
+
+.nav-link active {
+    color: #16133B;
+}
+
+.logoTitle {
+    color: #224859;
+}
+
+p {
+    color: #16133B;
+}
