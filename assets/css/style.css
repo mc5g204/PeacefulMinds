@@ -11,6 +11,7 @@ body {
 main {
     align-items: center;
     text-align: center;
+    color: #16303B;
     /* Make main element take up surplus space to push footer down*/
     flex: 1 0 auto;
 }
@@ -28,11 +29,6 @@ hr {
 /* Heading Font */
 .style-heading-font, h1, h2, h3, h4, h5, h6 {
     font-family: "Offside", sans-serif;
-}
-
-/* Text Color */
-.style-text-color {
-    color: #16303B;
 }
 
 div > h3 {
