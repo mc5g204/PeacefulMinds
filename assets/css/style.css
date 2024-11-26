@@ -78,6 +78,7 @@ div > p {
 /* Selected Navigation Links */
 .active {
     color: #16133B;
+    background-color: #306981;
 }
 
 /* Company Title */
