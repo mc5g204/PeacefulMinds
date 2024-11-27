@@ -8,6 +8,58 @@ PeacefulMinds is a assessed portfolio project developed as part of the Code Inst
 
 ![Project Brief](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/ProjectBrief.png)
 
+## UX Design
+
+### Wireframes
+
+Wireframes for all pages of the website were created before coding began. Versions for desktop, tablet and mobile size were created to reflect the responsive design expected. 
+
+For the most part, the designs remained consistent with the implementation, but some changes were made - they will be shown and explained below.
+
+- Homepage
+
+  - The fieldset for the cards was removed as feedback suggested it was not consistent with the rest of the website and reduced the padding between the cards making them looked cramped.
+  - The idea for an accordian display for the mobile size was also removed as it was not consistent with the rest of the website.
+
+![Homepage Desktop](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Desktop.png)
+![Homepage Tablet](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Tablet.png)
+![Homepage Mobile](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Mobile.png)
+
+- Resources
+
+  - The Resources page changed the least.
+  - The only difference from the design to the final product was the addition of a table to organise the resource links better.
+
+![Resources Desktop](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Desktop.png)
+![Resources Tablet](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Tablet.png)
+![Resources Mobile](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Mobile.png)
+
+- Comments
+
+  - The idea was to include a side panel which would allow users to enter their own comments and eventually have them displayed on the webpage.
+  - The site has is static, so only the elements were implemented with no JavaScript funtionality.
+  - Instead of a permanently displayed panel, it was changed to an overlay that could be viewed after clicking a button for better consistence across devices and a less obtrusive user experience.
+  
+![Comments Desktop](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Desktop.png)
+![Comments Tablet](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Mobile.png)
+![Comments Mobile](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Mobile.png)
+
+### Colours & Font
+
+- Font
+  - The fonts used were taken from [Google Fonts](https://fonts.google.com/)
+  - Nokora was used for general text throughout the website.
+  - Offside was used for headings throughout the website.
+ 
+- Colours
+  - The colours used were taken from [Coolors](https://coolors.co/)
+  - Shades of blue were chosen to be used throughout the website as they are a calm colour.
+
+![Colour Palette](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/PeacefulMinds_ColorPalette.png)
+
+
+###
+
 ## Features 
 Several features were implemented to ensure the project met the requirements of the project brief. The website consists of three pages with distinct sections to ensure a good user experience.
 
@@ -57,18 +109,8 @@ All features on the website were implemented using a combination of HTML5, CSS a
 
 ![Side Panel Overlay](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_SidebarActive.png)
 
----
 
 ## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
 
 ### Google Lighthouse Testing
 
@@ -93,6 +135,19 @@ High scores (90+) were achieved for both Desktop and Mobile when passing through
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ![CSS Validation](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/CSSValidation.png)
+
+### Manual Testing
+
+| Function | Expected Outcome | Does it work? |
+| ----------- | ----------- | ----------- |
+| General |
+| Paragraph | Text | Yes |
+| Homepage |
+| Paragraph | Text | Yes |
+| Resources |
+| Paragraph | Text | Yes |
+| Comments |
+| Paragraph | Text | Yes |
 
 ### Unfixed Bugs
 
@@ -123,7 +178,8 @@ The live link can be found here - [PeacefulMinds, https://mc5g204.github.io/Peac
 - The text and content included in the website was generated using Microsoft Copilot
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The fonts were taken from [Google Fonts](https://fonts.google.com/)
+- The colours were taken from [Coolors](https://coolors.co/)
 
 ### Media
-- The photos used on the home and sign up page are from This Open Source site
 - The images used for the hero section on the Homepage and Resources page are from: [https://pixabay.com/users/lavnatalia-5858294/](https://pixabay.com/users/lavnatalia-5858294/)
