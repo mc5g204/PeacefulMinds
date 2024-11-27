@@ -89,7 +89,7 @@ div > p {
 /* Hero Section Jumbotron */
 .jumbotron {
     position: relative;
-    background: url('/assets/images/PeacefulMindsLogo.webp') no-repeat center center;
+    background: url('/assets/images/Jumbotron.webp') no-repeat center center;
     background-size: cover;
     color: white;
     height: 50vh;
@@ -123,4 +123,17 @@ div > p {
 /* Formatting for Card Groups */
 .table-format {
     padding: 20px 20px;
+}
+
+/* Formatting for Buttons */
+.btn {
+    background-color: #306981;
+    color: #16303B;
+    border-color: #306981;
+}
+
+.btn:hover, .btn:active {
+    background-color: #16303B;
+    color: #306981;
+    border-color: #16303B;
 }
