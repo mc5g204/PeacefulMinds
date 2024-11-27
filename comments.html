@@ -71,25 +71,32 @@
             <!-- Side Panel for User Submissions -->
             <div>
                 <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas"
-                    data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions" class="button-format">Add something nice to this page!</button>
-    
+                    data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions"
+                    class="button-format">Add your own comment to this page!</button>
+
                 <div class="offcanvas offcanvas-start" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions"
                     aria-labelledby="offcanvasWithBothOptionsLabel">
                     <div class="offcanvas-header">
-                        <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">Backdrop with scrolling</h5>
+                        <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">Say something nice!</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                     </div>
                     <div class="offcanvas-body">
-                        <p>Try scrolling the rest of the page to see this option in action.</p>
+                        <p>Add your own encouraging comment for others who visit this page in the future!</p>
+                        <div class="input-group flex-nowrap">
+                            <input type="text" class="form-control" placeholder="Add your comment here."
+                                aria-label="Comment box" aria-describedby="addon-wrapping">
+                            <button type="submit" class="button-format">Submit</button>
+                        </div>
                     </div>
                 </div>
             </div>
-            
+
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4  g-4 item-group-format">
                 <div class="col">
                     <div class="card h-100 bg-main-dark">
                         <div class="card-body">
                             <p class="card-text">
+                                The only limit to our realization of tomorrow is our doubts of today.
                             </p>
                         </div>
                     </div>

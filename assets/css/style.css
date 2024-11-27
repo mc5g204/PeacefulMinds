@@ -92,7 +92,6 @@ div > p {
     background: url('/assets/images/Jumbotron.webp') no-repeat center center;
     background-size: cover;
     color: white;
-    height: 50vh;
     padding-bottom: 50px;
 }
 
