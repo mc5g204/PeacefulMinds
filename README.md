@@ -137,17 +137,26 @@ High scores (90+) were achieved for both Desktop and Mobile when passing through
 ![CSS Validation](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/CSSValidation.png)
 
 ### Manual Testing
-
 | Function | Expected Outcome | Does it work? |
 | ----------- | ----------- | ----------- |
-| General |
-| Paragraph | Text | Yes |
-| Homepage |
-| Paragraph | Text | Yes |
-| Resources |
-| Paragraph | Text | Yes |
-| Comments |
-| Paragraph | Text | Yes |
+| General - Header | The header is displayed at the top of the page and sticks there. | Yes |
+| General - Logo Link | The logo and title will direct the user to the homepage when clicked. | Yes |
+| General - NavBar | The NavBar links will direct the user to the relevant pages when clicked. | Yes |
+| General - Footer | The footer is displayed at the bottom of the page and shows social media links and a copyright. | Yes |
+| General - Footer Links | The social media links will direct the user to the relevant websites when clicked. | Yes |
+| General - Footer Links New Page | The social media links will open in new pages. | Yes |
+| Homepage - Hero Section | The Jumbrotron is displayed with a background image and text overlay. | No |
+| Homepage - Info Cards | The cards in the Common Issues section are displayed side by side with titles and text. | Yes |
+| Resources - Info Cards | The cards are displayed side by side with titles and text. | Yes |
+| Resources - Info Cards Images | The cards are displayed with appropriate images showing in their headers. | Yes |
+| Resources - Table | The table is displayed and has no formatting issues. | Yes |
+| Resources - Table Links | The resource links in the table are displayed as a hyperlink and will direct the user to the relevant pages when clicked. | Yes |
+| Resources - Table Links New Page | The resource links will open in new pages. | Yes |
+| Comments - Info Cards | The cards are displayed side by side with titles and text. | Yes |
+| Comments - Button Hover | The button will change colour when hovered over. | Yes |
+| Comments - Button Click | The button will open a side panel overlay when clicked. | Yes |
+| Comments - Side Panel | The side panel overlay will display text, an input box and submit button. | Yes |
+| Comments - Side Panel Close | The side panel overlay will close when (x) is clicked or when the user clicks outside the overlay. | Yes |
 
 ### Unfixed Bugs
 
