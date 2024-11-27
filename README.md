@@ -1,33 +1,34 @@
 # PeacefulMinds
-Code Institute Individual Fromative Assessment Project 1
+![Responsive Mockup](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/ResponsiveMockup.png)
 
-# Love Running
+| [Live Project](https://mc5g204.github.io/PeacefulMinds/) |
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+## Introduction
+PeacefulMinds is a assessed portfolio project developed as part of the Code Institute Full Stack Software Developer Bootcamp, with the intention of demonstrating proficiency in HTML5, CSS and Bootstrap to create a static website which fits the requirements provided in the project brief (which is shown below).
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+![Project Brief](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/ProjectBrief.png)
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+The final website can be found here: [PeacefulMinds](https://mc5g204.github.io/PeacefulMinds/)
 
 ## Features 
+Several features were implemented to ensure the project met the requirements of the project brief. The website consists of three pages with distinct sections to ensure a good user experience.
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+All features on the website were implemented using a combination of HTML5, CSS and Bootstrap and are responsive on multiple device sizes in accordance with appropriate breakpoints. 
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Homepage, Resources and Comments pages and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+- __Hero Section__
 
-- __The landing page image__
+  - The homepage includes a jumbotron in the hero section with text overlay to grab the user's attention.
+  - This is followed by a brief introductory text to introduce the user to the website.
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+![Nav Bar & Hero Section](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_NavBar.png)
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - __Club Ethos Section__
 
