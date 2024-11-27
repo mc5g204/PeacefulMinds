@@ -109,6 +109,9 @@ All features on the website were implemented using a combination of HTML5, CSS a
 
 ![Side Panel Overlay](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_SidebarActive.png)
 
+- __Responsive Design__
+
+  - The website has a responsive design for all major breakpoints - the elements will adapt depending on screen size for a better user experience.
 
 ## Testing 
 
@@ -168,6 +171,27 @@ High scores (90+) were achieved for both Desktop and Mobile when passing through
 - Adding a more contrasting colour scheme or dark mode for better accessibility: the Lighthouse assessment suggested the current contrast level could be improved on.
 - Implementing more interactive features or videos to make the user experience better.
 
+## Built With
+
+### Technologies & Languages
+
+- HTML5
+- CSS
+- Git Version Control
+- GitHub
+- GitPod
+
+### Libraries & Frameworks
+
+- Bootstrap
+- Google Fonts
+- Font Awesome
+
+### Tools & Programs
+
+- Balsamiq
+- Microsoft Copilot
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
@@ -180,12 +204,20 @@ This section should describe the process you went through to deploy the project 
 The live link can be found here - [PeacefulMinds, https://mc5g204.github.io/PeacefulMinds/](https://mc5g204.github.io/PeacefulMinds/)
 
 
-## Credits 
+## Credits
+
+### Code
+
+The project brief and primary learning and README.md template was supplied by [Code Institute](https://codeinstitute.net/).
+
+Supplementary learning resources which were referenced throughout the project are listed below:
+
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Microsoft Copilot](https://copilot.microsoft.com/) for generating the content of the webpage
 
 ### Content 
 
 - The text and content included in the website was generated using Microsoft Copilot
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The fonts were taken from [Google Fonts](https://fonts.google.com/)
 - The colours were taken from [Coolors](https://coolors.co/)
