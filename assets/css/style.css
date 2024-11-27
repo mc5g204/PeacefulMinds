@@ -21,6 +21,11 @@ hr {
     height: 3px;
 }
 
+/* Stop ul adding space at bottom */
+ul {
+    margin-bottom: 0;
+}
+
 /* Change background color to darker shade */
 .bg-main-dark {
     background-color: #CCE4E7;
