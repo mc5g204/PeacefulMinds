@@ -1,12 +1,12 @@
 # PeacefulMinds
-![Responsive Mockup](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/ResponsiveMockup.png)
+![Responsive Mockup](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/ResponsiveMockup.png)
 
-| [Live Project](https://mc5g204.github.io/PeacefulMinds/) |
+| [Live Project](https://mitalic004.github.io/PeacefulMinds/) |
 
 ## Introduction
 PeacefulMinds is a assessed portfolio project developed as part of the Code Institute Full Stack Software Developer Bootcamp, with the intention of demonstrating proficiency in HTML5, CSS and Bootstrap to create a static website which fits the requirements provided in the project brief (which is shown below).
 
-![Project Brief](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/ProjectBrief.png)
+![Project Brief](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/ProjectBrief.png)
 
 ## UX Design
 
@@ -21,18 +21,18 @@ For the most part, the designs remained consistent with the implementation, but 
   - The fieldset for the cards was removed as feedback suggested it was not consistent with the rest of the website and reduced the padding between the cards making them looked cramped.
   - The idea for an accordian display for the mobile size was also removed as it was not consistent with the rest of the website.
 
-![Homepage Desktop](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Desktop.png)
-![Homepage Tablet](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Tablet.png)
-![Homepage Mobile](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Mobile.png)
+![Homepage Desktop](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Desktop.png)
+![Homepage Tablet](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Tablet.png)
+![Homepage Mobile](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeHomepage_Mobile.png)
 
 - Resources
 
   - The Resources page changed the least.
   - The only difference from the design to the final product was the addition of a table to organise the resource links better.
 
-![Resources Desktop](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Desktop.png)
-![Resources Tablet](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Tablet.png)
-![Resources Mobile](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Mobile.png)
+![Resources Desktop](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Desktop.png)
+![Resources Tablet](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Tablet.png)
+![Resources Mobile](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeResources_Mobile.png)
 
 - Comments
 
@@ -40,9 +40,9 @@ For the most part, the designs remained consistent with the implementation, but 
   - The site has is static, so only the elements were implemented with no JavaScript funtionality.
   - Instead of a permanently displayed panel, it was changed to an overlay that could be viewed after clicking a button for better consistence across devices and a less obtrusive user experience.
   
-![Comments Desktop](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Desktop.png)
-![Comments Tablet](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Mobile.png)
-![Comments Mobile](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Mobile.png)
+![Comments Desktop](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Desktop.png)
+![Comments Tablet](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Mobile.png)
+![Comments Mobile](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/WireframeComments_Mobile.png)
 
 ### Colours & Font
 
@@ -55,7 +55,7 @@ For the most part, the designs remained consistent with the implementation, but 
   - The colours used were taken from [Coolors](https://coolors.co/)
   - Shades of blue were chosen to be used throughout the website as they are a calm colour.
 
-![Colour Palette](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/PeacefulMinds_ColorPalette.png)
+![Colour Palette](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/PeacefulMinds_ColorPalette.png)
 
 
 ###
@@ -77,14 +77,14 @@ All features on the website were implemented using a combination of HTML5, CSS a
   - The homepage includes a jumbotron in the hero section with text overlay to grab the user's attention.
   - This is followed by a brief introductory text to introduce the user to the website.
 
-![Nav Bar & Hero Section](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_NavBar.png)
+![Nav Bar & Hero Section](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/Website_NavBar.png)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_Footer.png)
+![Footer](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/Website_Footer.png)
 
 - __Bootstrap Cards__
 
@@ -92,22 +92,22 @@ All features on the website were implemented using a combination of HTML5, CSS a
   - The homepage cards have a lot of information and they have no attached images to ensure easy navigation on the website.
   - The Resources cards have less text so images were included to make the page more visually appealing.
 
-![Homepage Cards](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_HomepageCards.png)
-![Resources Cards](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_ResourcesCards.png)
+![Homepage Cards](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/Website_HomepageCards.png)
+![Resources Cards](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/Website_ResourcesCards.png)
 
 - __Table of Links__
 
   - This section in the Resources page was included to format the links in a appropriate manner and give a brief description of the linked resources to guide users.
   - The links will open to a new tab to allow easy navigation for the user. 
 
-![Resource Links](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_ResourceLinks.png)
+![Resource Links](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/Website_ResourceLinks.png)
 
 - __Side Panel__
 
   - The Comments page has a side panel overlay appear on the screen when the user clicks a button.
   - An overlay was selected instead of having the panel showing at all times as this would be less distracting to users who just wanted to view the page and not contribute.
 
-![Side Panel Overlay](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Website_SidebarActive.png)
+![Side Panel Overlay](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/Website_SidebarActive.png)
 
 - __Responsive Design__
 
@@ -120,24 +120,24 @@ All features on the website were implemented using a combination of HTML5, CSS a
 High scores (90+) were achieved for both Desktop and Mobile when passing through the official [Google Lighthouse](https://pagespeed.web.dev/)
 
 - Desktop
-![Desktop Results](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Lighhouse_Desktop.png)
+![Desktop Results](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/Lighhouse_Desktop.png)
 
 - Mobile
-![Mobile Results](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/Lighhouse_Mobile.png)
+![Mobile Results](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/Lighhouse_Mobile.png)
 
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 
-![HTML Validation Homepage](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/HTMLValidation_Homepage.png)
-![HTML Validation Resources](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/HTMLValidation_Resources.png)
-![HTML Validation Comments](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/HTMLValidation_Comments.png)
+![HTML Validation Homepage](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/HTMLValidation_Homepage.png)
+![HTML Validation Resources](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/HTMLValidation_Resources.png)
+![HTML Validation Comments](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/HTMLValidation_Comments.png)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-![CSS Validation](https://github.com/mc5g204/PeacefulMinds/blob/main/assets/images-readme/CSSValidation.png)
+![CSS Validation](https://github.com/mitalic004/PeacefulMinds/blob/main/assets/images-readme/CSSValidation.png)
 
 ### Manual Testing
 | Function | Expected Outcome | Does it work? |
@@ -201,7 +201,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - [PeacefulMinds, https://mc5g204.github.io/PeacefulMinds/](https://mc5g204.github.io/PeacefulMinds/)
+The live link can be found here - [PeacefulMinds, https://mitalic004.github.io/PeacefulMinds/](https://mitalic004.github.io/PeacefulMinds/)
 
 
 ## Credits
